@@ -1,0 +1,5 @@
+numpy version: 1.26.2
+tensorflow version: 2.15.0
+keras version: 2.15.0
+librosa version: 0.10.1
+imbalanced-learn version: 0.12.0
